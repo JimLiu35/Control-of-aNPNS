@@ -1,4 +1,4 @@
-# Control-of-aNPNS-by-Augmented-PLS-Regulation
+# Control-of-a-NPNS
 This repository contains all MATLAB and SimuLink files associated with the paper "Control of a Noncooperative Positive Nonlinear System by Augmented Positive Linear System Regulation."
 
 # System Requirements
